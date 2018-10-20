@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/EUy4Wgs.png" alt="Linux Concepts & Commands" width=200"></a>
+  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/OJMVIdJ.png?2" alt="Linux Concepts & Commands" width=200"></a>
   <br>
     <br>
   Linux Concepts & Commands
