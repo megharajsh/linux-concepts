@@ -21,5 +21,6 @@ This repository provides useful details about Linux concepts & commands
 * 📜 [A Brief Outline of 106 Linux Commands with Examples - LinOxide](https://linoxide.com/linux-how-to/linux-commands-brief-outline-examples)
 
 ### Videos
-
  * 
+ 
+ **[⬆ back to top](#table-of-contents)**
